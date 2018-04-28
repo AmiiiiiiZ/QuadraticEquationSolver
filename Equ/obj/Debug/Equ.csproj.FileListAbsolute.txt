@@ -1,0 +1,12 @@
+E:\[01]new life\IT S2\NET C#\ass 1\Equ\Equ\bin\Debug\Equ.exe.config
+E:\[01]new life\IT S2\NET C#\ass 1\Equ\Equ\bin\Debug\Equ.exe
+E:\[01]new life\IT S2\NET C#\ass 1\Equ\Equ\bin\Debug\Equ.pdb
+E:\[01]new life\IT S2\NET C#\ass 1\Equ\Equ\obj\Debug\Equ.csprojResolveAssemblyReference.cache
+E:\[01]new life\IT S2\NET C#\ass 1\Equ\Equ\obj\Debug\Equ.exe
+E:\[01]new life\IT S2\NET C#\ass 1\Equ\Equ\obj\Debug\Equ.pdb
+E:\[01]new life\IT S2\NET C#\ass 1\Equ - Mi Zhou 12696290\Equ\bin\Debug\Equ.exe.config
+E:\[01]new life\IT S2\NET C#\ass 1\Equ - Mi Zhou 12696290\Equ\bin\Debug\Equ.exe
+E:\[01]new life\IT S2\NET C#\ass 1\Equ - Mi Zhou 12696290\Equ\bin\Debug\Equ.pdb
+E:\[01]new life\IT S2\NET C#\ass 1\Equ - Mi Zhou 12696290\Equ\obj\Debug\Equ.csprojResolveAssemblyReference.cache
+E:\[01]new life\IT S2\NET C#\ass 1\Equ - Mi Zhou 12696290\Equ\obj\Debug\Equ.exe
+E:\[01]new life\IT S2\NET C#\ass 1\Equ - Mi Zhou 12696290\Equ\obj\Debug\Equ.pdb
