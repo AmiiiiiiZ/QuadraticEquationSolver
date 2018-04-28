@@ -1,4 +1,4 @@
-# QuadraticEquationSolver
+# QuadraticEquationSolver - 2017 Summer
 UTS .NET Application Development assignment - console calculator to solve quadratic equation with one unknown.
 The project is developed with Visual Studio and C#.
 One flaw of my solution: when you put an X as the denominator, it cannot give the correct result. I didn't have time to make a function to remove a denominator X. 
